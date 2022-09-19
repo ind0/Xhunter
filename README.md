@@ -35,6 +35,17 @@
 <a href="https://zennashop.com/product/xhunter-1-7/" class="next">Download</a>
 
 
+## Screenshots
+
+![App Screenshot](https://zennashop.com/wp-content/uploads/2022/09/1.jpg)
+
+![App Screenshot](https://zennashop.com/wp-content/uploads/2022/09/2.jpg)
+
+![App Screenshot](https://zennashop.com/wp-content/uploads/2022/09/4.jpg)
+
+![App Screenshot](https://zennashop.com/wp-content/uploads/2022/09/3.jpg)
+
+
 ## ⚖️ Legal Disclaimer: **For Educational Purpose Only**
 Usage of **XHUNTER** for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program. Use Responsibly!
 
