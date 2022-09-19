@@ -14,8 +14,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/anirudhmalik/xhunter">
-    <img src="images/logo.png" alt="Logo" width="300" height="300">
+  <a href="https://github.com/jennahacker/xhunter">
+    <img src="https://github.com/anirudhmalik/xhunter/blob/master/images/logo.png?raw=true" alt="Logo" width="300" height="300">
   </a>
 
   <h3 align="center">XHUNTER</h3>
