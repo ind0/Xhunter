@@ -6,7 +6,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![Last Commit][last-commit-shield]][last-commit-url]
 [![Repo Size][repo-size-shield]][repo-size-url]
 
 
